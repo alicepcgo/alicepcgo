@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 The name is Mateus, junior front-end developer, technology lover, brazilian, 22.
 
 I make your job easier, fast and fancy.
+
+Lets get in touch! Mail me on matthelink.rm.rf@gmail.com
