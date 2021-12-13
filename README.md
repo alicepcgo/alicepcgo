@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There...
 
 <!--
 **MateusLink07/MateusLink07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+The name is Mateus, junior front-end developer, technology lover, brazilian, 22.
+
+I make your job easier, fast and fancy.
